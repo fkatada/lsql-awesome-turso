@@ -229,7 +229,7 @@ Tools by the community.
 - [my-way-track](https://github.com/subzerocloud/my-way-track/tree/turso) - App for privately tracking job applications.
 - [My Links](https://www.my-links.live): An open source version on linktree.
 - [Solana Tracker](https://www.solanatracker.io): A secure Solana Coins tracker.
-- [wanderer.moe](https://wanderer.moe/): A centralized database of various game assets.
+- [skowt.cc](https://skowt.cc/): A centralized game assets database.
 - [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
 - [DipSway Crypto Bot](https://www.dipsway.com/): Cloud hosted Crypto Trading Bot that uses model re-training every 24h for each coin.
 - [Condo Manager](https://github.com/yazalulloa/condo-manager): A condo manager web app (Websocket impl in Java).
