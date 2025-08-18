@@ -214,6 +214,7 @@ Tools by the community.
 - [Amazing Endemic Species](https://aes.shenlu.me): An open-source, community-driven SaaS (Species-as-a-Service) application.
 - [Undb](https://undb.io): An open-source, sqlite based nocode database platform & BaaS.
 - [bknd](https://bknd.io): Lightweight Firebase/Supabase alternative built to run anywhere
+- [skowt.cc](https://skowt.cc/): An open-source, free to use centralized game assets database.
 
 <h3 id="apps-websites">Apps & Websites</h3>
 
@@ -229,7 +230,6 @@ Tools by the community.
 - [my-way-track](https://github.com/subzerocloud/my-way-track/tree/turso) - App for privately tracking job applications.
 - [My Links](https://www.my-links.live): An open source version on linktree.
 - [Solana Tracker](https://www.solanatracker.io): A secure Solana Coins tracker.
-- [skowt.cc](https://skowt.cc/): A centralized game assets database.
 - [CSVAPI](https://www.csvapi.com/): a service that lets you build APIs from your CSV files.
 - [DipSway Crypto Bot](https://www.dipsway.com/): Cloud hosted Crypto Trading Bot that uses model re-training every 24h for each coin.
 - [Condo Manager](https://github.com/yazalulloa/condo-manager): A condo manager web app (Websocket impl in Java).
